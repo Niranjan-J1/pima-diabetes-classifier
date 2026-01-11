@@ -55,5 +55,10 @@ Tools used:
 
 - Matplotlib, Seaborn, Plotly, Yellowbrick
 
+- Graphs and data Visualized:
+
+- <img width="1078" height="1220" alt="image" src="https://github.com/user-attachments/assets/eda2876d-9367-49d3-9fc9-041f94749cc6" />
+
+
 ---
 
