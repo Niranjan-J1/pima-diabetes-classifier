@@ -55,12 +55,14 @@ Tools used:
 
 - Matplotlib, Seaborn, Plotly, Yellowbrick
 
-## Graphs and data Visualized:
+## Important Graphs and data Visualized:
 
 - <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/eda2876d-9367-49d3-9fc9-041f94749cc6" />
 - <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/583e6b0e-1436-4be6-9866-1ec554a605eb" />
 - <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/920653b5-3f60-4908-b56f-853ea49cec3c" />
 - <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/0b3e2741-b02f-4a50-a068-d266c57bbae3" />
+- <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/ebcd3151-5f2c-43bf-8212-eba7a63635dd" />
+
 
 
 
